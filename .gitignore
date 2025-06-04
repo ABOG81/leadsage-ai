@@ -1,0 +1,5 @@
+.env
+.env.local
+firebase-adminsdk.json
+*.key
+*.pem
